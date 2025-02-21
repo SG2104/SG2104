@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Shreyal Ganna  
 
-<!--
-**SG2104/SG2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Graduate Student in Computer Engineering, passionate about building web applications. I actively seek opportunities to apply and expand my skills while collaborating on innovative projects. My current focus lies in enhancing my backend development expertise, with a particular emphasis on Express.js and PostgreSQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **💻 Tech Skills:**  
+- **Frontend:** React.js, Next.js, TypeScript  
+- **Backend:** Node.js, Express.js  
+- **Database & ORM:** PostgreSQL, Prisma ORM, SQL  
+- **Other Interests:** Cloud Deployment, Security in Web Applications  
+
+### **🤝 Connect & Collaborate:**  
+- LinkedIn: https://www.linkedin.com/in/shreyal-ganna-65504523b/  
+- Email: gannashreyal@gmail.com  
